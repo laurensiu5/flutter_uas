@@ -1,0 +1,50 @@
+{
+    "folders": [
+        {
+            "name": "flutter_uas/macos\\Runner.xcworkspace",
+            "path": "../.."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\windows": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\web": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\test": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\README.md": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\pubspec.yaml": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\pubspec.lock": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\linux": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\lib": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\ios": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\flutter_uas.iml": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\build": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\android": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\analysis_options.yaml": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.metadata": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.idea": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.flutter-plugins-dependencies": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.flutter-plugins": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.dart_tool": true
+        },
+        "search.exclude": {
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\windows": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\web": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\test": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\README.md": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\pubspec.yaml": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\pubspec.lock": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\linux": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\lib": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\ios": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\flutter_uas.iml": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\build": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\android": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\analysis_options.yaml": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.metadata": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.idea": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.flutter-plugins-dependencies": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.flutter-plugins": true,
+            "..\\..\\AppData\\Local\\Programs\\Microsoft VS Code\\Users\\ADVAN\\Documents\\flutter_uas\\.dart_tool": true
+        }
+    }
+}
